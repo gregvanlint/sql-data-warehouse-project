@@ -3,7 +3,7 @@ Building a modern data warehouse using SQL server, including ETL processes, data
 
 ----
 
-#📖 Project Overview
+## 📖 Project Overview
 This project involves:
 
 Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
